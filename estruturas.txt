@@ -1,0 +1,19 @@
+Explicação de todas as estruturas usadas ao longo dos exercícios:
+
+if = adiciona uma condição
+elif = adiciona mais uma condição
+else = adiciona uma condição que se aplica quando nenhuma outra for aplicável
+and = serve como "e", por exemplo:
+    if valor1 = 1 and valor2 = 2
+    print("valor")
+nesse código a palavra valor só irá aparecer na tela se a varíavel valor1 for 1 e valor2 for 2
+or = é como "ou", usando o mesmo exemplo:
+    if valor1 = 1 or valor2 = 2
+    print("valor")
+nesse caso a palavra valor aparecerá se valor1 for 1 OU valor2 for 2
+for = indica uma repetição
+exemplo: 
+for inteiro in range(1, 101):
+    print(inteiro)
+in = indica onde essa repetição irá acontecer
+range(1, 101) = range indica o intervalo, que no caso começará no 1 e irá até antes do 101
