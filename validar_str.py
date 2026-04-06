@@ -2,3 +2,4 @@
 string = input("Digite uma string: ")
 if string == "":
     print("Dado inválido")
+else print(string)
